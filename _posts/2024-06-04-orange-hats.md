@@ -12,7 +12,7 @@ The initial $1m in funding is intended to allow the Clarity WG to bring new tool
 
 **Aligning security resources:**
 
-The Clarity WG will liaise with the community to set resourcing and tooling priorities and to train and vet security experts on Stacks and Clarity. The Clarity WG is an established group in the ecosystem that has played (and is currently playing) a major role in core development and consists of many of the top Clarity developers in the Stacks ecosystem. Members of the Stacks DeFi Working Group have also been extremely helpful in identifying high-impact places to invest and will remain a key voice in how these funds are deployed.
+The Clarity WG will liaise with the community to set resourcing and tooling priorities and to train and vet security experts on Stacks and Clarity. The Clarity WG is an established group in the ecosystem that has been playing a major role in core development. It consists of many of the top Clarity developers in the Stacks ecosystem. Members of the Stacks DeFi Working Group have also been extremely helpful in identifying high-impact places to invest and will remain a key voice in how these funds are deployed.
 
 In addition to the immediate work with Whitehats and Hypernative, the Working Groups have put together an initial 90-day plan that includes:
 
@@ -24,7 +24,7 @@ In addition to the immediate work with Whitehats and Hypernative, the Working Gr
 
 We’ve observed that the whitehat approach is working well on the core development side and want to ensure founders are applying this resource to their Clarity contracts and application designs as well. Secure base layers need to be complemented by secure code and protocols atop those layers!
 
-We believe a multi-faceted approach that is not overly dependent on any **one** aspect of application security, such as audits, the developers themselves, bug bounty programs, or test coverage, is the best way to reduce risk as this sector continues to grow. We believe supplementing everything founders need to do on their own with an accessible whitehat resource like this is a clear way to bolster the ecosystem. 
+We believe a multi-faceted approach that is not overly dependent on any **one** aspect of application security - such as audits, the developers themselves, bug bounty programs, or test coverage - is the best way to reduce risk as this sector continues to grow. We believe supplementing everything founders need to do on their own with an accessible whitehat resource like this is a clear way to bolster the ecosystem. 
 
 ### How it helps founders:
 
@@ -41,4 +41,4 @@ If you’re a builder, this may already be obvious, but it’s worth outlining t
 
 - Setzeus from the Clarity Working Group is already onboarding Whitehats suggested and vetted by builders, they will go through a real-world training exercise by performing audits on notable apps in the ecosystem that will serve as a baseline for their learning.
 - Partnership conversations to integrate security-focused tools and services with Stacks/Clarity are underway.
-- Get in touch with Setzeus [via the Clarity WG](https://events.stacks.co/event/pq21906311) if you’d like to offer feedback or be involved with these efforts.
+- Get in touch with Setzeus [via the Clarity WG](https://events.stacks.co/event/pq21906311) if you’d like to offer feedback, or be involved with these efforts.
